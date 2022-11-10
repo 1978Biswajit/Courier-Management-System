@@ -11,14 +11,8 @@
                 <div class="about-content">
                     <h3>Our Profile</h3>
                     <div class="about-des mt-3">
-                        <p>Courier Management Services as a leading transportation, logistics
-                            management and freight forwarding company in Bangladesh.
-                            We have our own customs Govt. License for all imports & exports shipments. We are a
-                            registered member of BAFFA. <br> <br>
-                            We have monthly contractual freight rates with all the major shipping companies. Some of our
-                            shipping partners include
-                            APL, CMA CGM, OOCL,COSCO, EVERGREEN, CSAV NORASIA, MSC, HAPAG LLOYD, HMM, RCL, KMTC,
-                            and CHINA SHIPPING.</p>
+                        <p>The launch of Courier Management System from the house of Courier services is exclusively designed to meet the commercial and personal shipment needs of our customers in both urban and rural destinations. We are emerging as a top destination for ‘same-day’ transportation and are continuously serving our customers 24/7/365. We constantly expand our resources to cater to our customer expectation addressing their unique market needs <br> <br>
+                           Having created a brand in the courier industry we have ventured into the courier business with the same commitment. We offer flexible and faster delivery solutions. We have spread our footprints far and wide with our bouquet of products and services. We deliver promptly for all your time critical projects.</p>
                     </div>
                 </div>
             </div>
